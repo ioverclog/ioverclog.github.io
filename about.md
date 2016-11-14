@@ -9,4 +9,4 @@ permalink: /about/
 Angular JS
 **ReactJS**
 TypeScript
-ES6   
+ES6
