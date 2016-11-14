@@ -10,9 +10,3 @@ Angular JS
 ReactJS  
 TypeScript  
 ES6
-
-
-
-
-
-
